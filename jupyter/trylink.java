@@ -1,6 +1,6 @@
 ///usr/bin/env jbang "$0" "$@" ; exit $?
 //DEPS info.picocli:picocli:4.7.7
-//DEPS org.eclipse.jgit:org.eclipse.jgit:6.5.0.202303070854-r
+//DEPS org.eclipse.jgit:org.eclipse.jgit:7.8.0.202609011348-r
 //DEPS org.slf4j:slf4j-nop:2.0.9
 
 import picocli.CommandLine;
